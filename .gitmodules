@@ -1,0 +1,3 @@
+[submodule "Pagina-Django"]
+	path = Pagina-Django
+	url = https://github.com/David-Bellon/Django-desencadenado.git
